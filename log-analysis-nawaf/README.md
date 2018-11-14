@@ -3,8 +3,6 @@ This project has been developed in response to the newspaper request to analyse 
 
 Getting Started
 Follow these steps to run the code locally.
-
-Prerequisites
 Download and install Vagrant 2.2.0
 Download Vagrantfile and install the virtual box:
 https://github.com/udacity/fullstack-nanodegree-vm.git
