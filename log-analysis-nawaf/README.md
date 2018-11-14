@@ -20,8 +20,9 @@ https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsd
 Make sure that you've downloaded it on the same vagrant directory so that it will be accessible inside the virtual box.
 
 ## Installing
-First log into the virtual box using ```sh
-$ vagrant ssh
+First log into the virtual box using
+```sh
+$ vagrant ssh.
 ```  
 Then go to the shared directory inside the virtual box
 ```sh
